@@ -76,13 +76,14 @@ Currency: You can use `-c` or `--currency` to look up crypto data in another cur
   npm start -- -c aud
   ```
 
-## Donations Welcome
+## Contributing
 
+Thanks all for your contributions...
+    
+![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
+    
+ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
-| Coin         | Address                                    |
-| -------------|:------------------------------------------:|
-| Bitcoin      | 1LFTccjYHbiVekdm8XYC1ucNqdGsAC3frc         |
-| Bitcoin Cash | 132iaE6MYW3hpupuyzA8AKVmYk7SAbrAA1         |
-| Ethereum     | 0x071Fe2Bb50430A3f6af398A410a78B67e1A783AE |
-| Litecoin     | Lh9eV96yhTyrkv2VkWG7RZvas9TzFuYZbR         |
+![Screen Shot 2021-03-21 at 21 56 54](https://user-images.githubusercontent.com/81108192/111922186-5b807100-8a90-11eb-8504-a3fc3ae35052.png)
 
+BTC WALLET: 3N928MmFq51kbf6fE3fxJbtggBhcjMAhSQ
