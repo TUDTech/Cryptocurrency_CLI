@@ -35,13 +35,13 @@ Cryptocurrency CLI lets you monitor cryptocurrencies in your portfolio and track
 1. Git Clone the repo
 
     ```
-    git clone https://github.com/christ0ph3r/cryptocurrency-cli/
+    git clone https://github.com/TUDTech/Cryptocurrency_CLI
     ```
 
 1. Enter the repository
 
     ```
-    cd cryptocurrency-cli && npm install
+    cd Cryptocurrency-CLI && npm install
     ```
 
 1. Run
